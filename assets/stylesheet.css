@@ -1093,25 +1093,25 @@ audio {
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
-#b1,#b11 {
+#c1,#c11 {
 	background-image: url('c1.png');
 }
-#b2,#b22 {
+#c2,#c22 {
 	background-image: url('c2.png');
 }
-#b3,#b33 {
+#c3,#c33 {
 	background-image: url('c3.png');
 }
-#b4,#b44{
+#c4,#c44{
 	background-image: url('c4.png');
 }
-#b5,#b55{
+#c5,#c55{
 	background-image: url('c5.png');
 }
-#b6,#b66{
+#c6,#c66{
 	background-image: url('c6.png');
 }
-#b7,#b77{
+#c7,#c77{
 	background-image: url('c7.png');
 }
 .balloons-rotate-behaviour-one {
