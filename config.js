@@ -32,7 +32,7 @@ var config = {
     desc: {
         turn_on: "唔...有點黑，開個燈吧！",
         play: "再來點音樂",
-        bannar_coming: "加一點顏色～",
+        bannar_coming: "加一點裝飾～",
         balloons_flying: "好像少點東西",
         cake_fadein: "原來是蛋糕呀",
         light_candle: "上面再插上一支蠟燭",
